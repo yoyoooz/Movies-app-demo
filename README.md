@@ -1,4 +1,4 @@
-# Ya Movies App 🎬
+# Movies App 🎬
 
 A React web app to discover, search, and track movies. Built with **React**, **TailwindCSS**, **TMDb API**, and **Appwrite**.
 
