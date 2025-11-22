@@ -2,7 +2,7 @@
 
 A React web app to discover, search, and track movies. Built with **React**, **TailwindCSS**, **TMDb API**, and **Appwrite**.
 
-🌐 **Live Demo:** [View Here](https://news-homepage-vite.netlify.app/)
+🌐 **Live Demo:** [View Here](https://movies-app-yademo.netlify.app/)
 
 ---
 
